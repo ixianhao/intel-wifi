@@ -1,10 +1,11 @@
 #First, install some necessary package
 
-sudo apt install flex bison
+sudo apt install flex bison make vim gcc git -y
 
 #clone the backport repo, compile and install it:
 
 git clone https://gitee.com/ixianhao/intel-wifi.git
+sudo cp intel-wifi/fw-binsries/*.ucode /lib/firmware
 cd intel-wifi/iwlwifi-stack-dev
 sudo make defconfig-iwlwifi-public
 sudo make
