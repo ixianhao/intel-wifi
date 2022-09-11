@@ -1,0 +1,314 @@
+@abort_scan@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(4,5,0)
+	.abort_scan = fn,
++#endif
+...
+};
+
+@@
+identifier abort_scan.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(4,5,0)
+fn(...)
+{
+...
+}
++#endif
+
+@perform_msrment@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(99,0,0)
+	.perform_msrment = fn,
++#endif
+...
+};
+
+@@
+identifier perform_msrment.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(99,0,0)
+fn(...)
+{
+...
+}
++#endif
+
+@abort_msrment@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(99,0,0)
+	.abort_msrment = fn,
++#endif
+...
+};
+
+@@
+identifier abort_msrment.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(99,0,0)
+fn(...)
+{
+...
+}
++#endif
+
+@start_nan@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+	.start_nan = fn,
++#endif
+...
+};
+
+@stop_nan@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+	.stop_nan = fn,
++#endif
+...
+};
+
+@nan_change_conf@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+	.nan_change_conf = fn,
++#endif
+...
+};
+
+@add_nan_func@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+	.add_nan_func = fn,
++#endif
+...
+};
+
+@del_nan_func@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+	.del_nan_func = fn,
++#endif
+...
+};
+
+@@
+identifier start_nan.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+fn(...)
+{
+...
+}
++#endif
+
+@@
+identifier stop_nan.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+fn(...)
+{
+...
+}
++#endif
+
+@@
+identifier nan_change_conf.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+fn(...)
+{
+...
+}
++#endif
+
+@@
+identifier add_nan_func.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+fn(...)
+{
+...
+}
++#endif
+
+@@
+identifier del_nan_func.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(4,9,0)
+fn(...)
+{
+...
+}
++#endif
+
+@set_multicast_to_unicast@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(4,10,0)
+	.set_multicast_to_unicast = fn,
++#endif
+...
+};
+
+@@
+identifier set_multicast_to_unicast.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(4,10,0)
+fn(...)
+{
+...
+}
++#endif
+
+@set_cqm_rssi_range_config@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(4,12,0)
+	.set_cqm_rssi_range_config = fn,
++#endif
+...
+};
+
+@@
+identifier set_cqm_rssi_range_config.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(4,12,0)
+fn(...)
+{
+...
+}
++#endif
+
+@cfg_vif_ops@
+identifier ops;
+identifier add_vif, change_vif, sched_stop;
+@@
+struct cfg80211_ops ops = {
+...,
+.add_virtual_intf = add_vif,
+...,
+.change_virtual_intf = change_vif,
+...,
+.sched_scan_stop = sched_stop,
+...,
+};
+
+@@
+identifier cfg_vif_ops.add_vif;
+typedef u32;
+@@
+add_vif(...,
++#if CFG80211_VERSION < KERNEL_VERSION(4,12,0)
++u32 *flags,
++#endif
+struct vif_params *params)
+{
+...
+}
+
+@@
+identifier cfg_vif_ops.change_vif;
+@@
+change_vif(...,
++#if CFG80211_VERSION < KERNEL_VERSION(4,12,0)
++u32 *flags,
++#endif
+struct vif_params *params)
+{...}
+
+@@
+identifier cfg_vif_ops.sched_stop;
+@@
+sched_stop(...
++#if CFG80211_VERSION >= KERNEL_VERSION(4,12,0)
+, u64 reqid
++#endif
+ )
+{...}
+
+@tx_control_port@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(4,17,0)
++#if CFG80211_VERSION >= KERNEL_VERSION(5,8,0)
+	.tx_control_port = fn,
++#else
++	.tx_control_port = bp_ieee80211_tx_control_port,
++#endif
++#endif
+...
+};
+
+@@
+identifier tx_control_port.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(4,17,0)
+fn(...)
+{
+...
+}
++#endif
+
+@radar_bg@
+identifier ops;
+identifier fn;
+@@
+struct cfg80211_ops ops = {
+...,
++#if CFG80211_VERSION >= KERNEL_VERSION(5,17,0)
+	.set_radar_background = fn,
++#endif
+...
+};
+
+@@
+identifier radar_bg.fn;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(5,17,0)
+fn(...)
+{
+...
+}
++#endif

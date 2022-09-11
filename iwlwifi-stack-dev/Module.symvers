@@ -1,0 +1,401 @@
+0x00000000	ieee80211_disconnect	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_wake_queues	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_external_auth_request	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_unreserve_tid	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_queue_stopped	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	wdev_to_ieee80211_vif	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_he_is_sgi	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	__SCK__tp_func_iwlwifi_dev_ucode_cont_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	__SCT__tp_func_iwlwifi_dev_ucode_cont_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	iwl_tm_set_fw_ver	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_notification_wait	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	wiphy_to_ieee80211_hw	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_sched_scan_stopped_locked	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_ch_switch_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_notify_new_peer_candidate	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	__tracepoint_iwlwifi_dev_ucode_wrap_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	iwl_drv_switch_op_mode	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_get_p2p_attr	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_parse_nvm_data	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_trans_send_cmd	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_merge_profile	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_rx_list	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_stop_tx_ba_cb_irqsafe	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_sched_scan_stopped	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_fw_dbg_collect_trig	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_opmode_register	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_nan_func_terminated	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_freq_khz_to_channel	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_fw_runtime_suspend	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_get_vht_max_nss	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_notification_wait_init	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	__iwl_dbg	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_tx_dequeue	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_queue_delayed_work	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_write_prph_delay	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_sta_pspoll	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_vendor_cmd_get_sender	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_sar_select_profile	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_tdls_oper_request	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_sched_scan_results	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_get_hdrlen_from_skb	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_update_owe_info_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_return_txq	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_alloc_hw_nm	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_poll_direct_bit	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	__traceiter_iwlwifi_dev_ucode_cont_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	ieee80211_next_txq	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_chandef_usable	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_iter_combinations	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_parse_mei_nvm_data	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_stop_tx_ba_session	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_set_bits_prph	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_fw_runtime_resume	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_parse_nvm_mcc_info	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	__ieee80211_get_radio_led_name	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_s1g_channel_width	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_queue_work	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	__cfg80211_alloc_event_skb	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_send_phy_db_data	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_hdrlen	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_csa_finish	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_stop_queue	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_chandef_dfs_required	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_iter_keys_rcu	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	__iwl_warn	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_mark_rx_ba_filtered_frames	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_abort_notification_waits	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_fw_lookup_assert_desc	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_acpi_get_mcc	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_unlink_bss	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_write_prph_no_grab	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_fwrt_dump_error_logs	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_opmode_deregister	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_fw_dbg_read_d3_debug_data	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_restart_hw	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_sched_scan_results	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	get_wiphy_regdom	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_sta_uapsd_trigger	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	__ieee80211_get_tx_led_name	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_tm_gnl_send_msg	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_get_num_supported_channels	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_put_bss	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_send_layer2_update	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_cmd_groups_verify_sorted	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_sinfo_alloc_tid_stats	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_report_wowlan_wakeup	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_remain_on_channel_expired	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_get_nvm	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_remain_on_channel_expired	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	__traceiter_iwlwifi_dev_ucode_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	ieee80211_calc_rx_airtime	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	cfg80211_rx_mlme_mgmt	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_tx_mlme_mgmt	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_is_element_inherited	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_cqm_txe_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_hw_restart_disconnect	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_dump_desc_assert	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_ref_bss	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_iterate_stations_atomic	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	cfg80211_register_netdevice	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	backport_dependency_symbol	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/compat	EXPORT_SYMBOL_GPL	
+0x00000000	ieee80211_ie_split_ric	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_find_vendor_elem	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_rx_napi	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_disable_rssi_reports	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_get_tx_rates	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_dnt_dev_if_read_sram	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_acpi_get_lari_config_bitmap	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_channel_to_freq_khz	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	__cfg80211_alloc_reply_skb	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_conn_failed	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_rx_spurious_frame	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_mgmt_tx_status_ext	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_control_port_tx_status	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_manage_rx_ba_offl	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_find_elem_match	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_fw_dbg_collect_desc	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_mandatory_rates	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_init_paging	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_bss_get_elem	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_rate_control_register	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_force_nmi	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_set_bits_mask_prph	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_ctstoself_duration	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	__ieee80211_get_assoc_led_name	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_remove_notification	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_rs_pretty_ant	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_crit_proto_stopped	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_ready_on_channel	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	cfg80211_ready_on_channel	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_read_prph	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_classify8021d	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_cac_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_nan_func_match	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_beacon_set_cntdwn	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_generic_frame_duration	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_color_change_finish	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_guid	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_dnt_dispatch_collect_ucode_message	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_vendor_cmd_reply	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0x00000000	ieee80211_start_tx_ba_cb_irqsafe	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_sta_block_awake	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_channel_switch_disconnect	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	wiphy_register	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_beacon_get_tim	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_tkip_add_iv	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_rate_mcs	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_cqm_rssi_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_beacon_get_template	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_acpi_get_eckv	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	__SCK__tp_func_iwlwifi_dev_ucode_wrap_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	__SCT__tp_func_iwlwifi_dev_ucode_wrap_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	ieee80211_start_tx_ba_session	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_key_replay	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_fw_start_dbg_conf	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	_dmi_get_system_info	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_tm_init	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_free_nan_func	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_tx_rate_update	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_roamed	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_check_station_change	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_assoc_timeout	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_cqm_rssi_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	__iwl_crit	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	__cfg80211_send_event_skb	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	wiphy_free	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_vif_to_wdev	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	ieee80211_get_tkip_p1k_iv	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_sar_get_wrds_table	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_sar_get_wgds_table	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_txq_may_transmit	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_acpi_get_wifi_pkg_range	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_txq_schedule_start	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_fw_runtime_init	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_radiotap_iterator_init	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_fw_dbg_stop_restart_recording	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_phy_db_set_section	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_tx_status_irqsafe	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_find_sta	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_sta_opmode_change_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_bss_color_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_ibss_joined	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	reg_query_regdb_wmm	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	wdev_chandef	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_stop_queues	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	reg_initiator_name	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_tdls_oper_request	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_chandef_create	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_port_authorized	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_nullfunc_get	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_stop_rx_ba_session	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_cqm_beacon_loss_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	backport_put_user_ifreq	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/compat	EXPORT_SYMBOL	
+0x00000000	ieee80211_radar_detected	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	regulatory_set_wiphy_regd_sync	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_rts_duration	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_ave_rssi	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	ieee80211_gtk_rekey_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	ieee80211_get_tkip_rx_p1k	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_uefi_get_step_table	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	_iwl_dbg_tlv_time_point	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_write_direct32	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_unregister_hw	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_get_buffered_bc	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_parse_p2p_noa	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieeee80211_obss_color_collision_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	ieee80211_get_response_rate	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_cqm_pktloss_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_abandon_assoc	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_reserve_tid	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_tx_mgmt_expired	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_read_prph_no_grab	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_dnt_dispatch_handle_nic_err	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_sched_scan_stopped	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_get_bss	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_gtk_rekey_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_probe_status	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_report_obss_beacon_khz	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	__iwl_info	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	__cfg80211_radar_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_sta_set_buffered	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_acpi_get_tas	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_chandef_compatible	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_dnt_dev_if_read_rx	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_calculate_bitrate	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_pmsr_complete	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0x00000000	rs_pretty_print_rate	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_schedule_txq	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_nvm_fixups	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_send_eosp_nullfunc	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_write64	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_scan_completed	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_remove_key	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	cfg80211_connect_done	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	rate_control_set_rates	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_configure_rxq	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_clear_bits_prph	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_read32	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_report_low_ack	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_beacon_update_cntdwn	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_uefi_get_sgom_table	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_data_to_8023_exthdr	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	__ieee80211_create_tpt_led_trigger	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_amsdu_to_8023s	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_new_sta	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_shutdown_all_interfaces	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0x00000000	ieee80211_register_hw	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_sta_register_airtime	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_update_mu_groups	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	ieee80211_sta_ps_transition	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_acpi_is_ppag_approved	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_read_direct32	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_find_sta_by_ifaddr	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_fw_lookup_notif_ver	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	
+0x00000000	cfg80211_report_wowlan_wakeup	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_get_station	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_phy_db_get_section_data	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_get_cmd_string	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_beacon_cntdwn_is_complete	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_drv_get_dev_container	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_sar_geo_init	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_get_bssid	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_txq_get_depth	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	wiphy_rfkill_set_hw_state_reason	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_rx_ba_timer_expired	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	bridge_tunnel_header	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_chswitch_done	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_sar_geo_support	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_get_tkip_p2k	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_connection_loss	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	_dmi_check_system	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_fw_dbg_error_collect	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	wiphy_unregister	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_iftype_allowed	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_fw_lookup_cmd_ver	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	
+0x00000000	_dmi_match	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_read_ppag_table	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_background_cac_abort	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_dnt_free	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_wake_queue	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_poll_bit	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_init_notification_wait	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	__ieee80211_get_rx_led_name	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	__tracepoint_iwlwifi_dev_ucode_cont_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	cfg80211_nan_func_terminated	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_tx_status_8023	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_beacon_loss	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_auth_timeout	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_acpi_get_pwr_limit	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_free_txskb	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_rx_irqsafe	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_write_direct64	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_write32	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_iterate_active_interfaces_atomic	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	cfg80211_check_combinations	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_enable_rssi_reports	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	__iwl_err	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_rfi_guid	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_disconnected	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_nan_match	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_tx_prepare_skb	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_fw_rate_idx_to_plcp	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_iterate_active_interfaces_mtx	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	cfg80211_ft_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_any_usable_channels	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_fw_dbg_collect	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_key_mic_failure	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	cfg80211_unregister_wdev	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	backport_get_user_ifreq	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/compat	EXPORT_SYMBOL	
+0x00000000	ieee80211_iter_chan_contexts_atomic	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_pnvm_load	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_scan_done	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_inform_bss_data	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_proberesp_get	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_write_prph64_no_grab	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_rx_unprot_mlme_mgmt	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_chandef_valid	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_assoc_comeback	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_write8	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_cqm_beacon_loss_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_operating_class_to_band	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_rs_pretty_bw	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_get_fils_discovery_tmpl	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	rfc1042_header	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_rx_mgmt_ext	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_txq_airtime_check	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_fw_dbg_stop_sync	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_bss_iter	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_inform_bss_frame_data	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_reg_can_beacon_relax	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_free_hw	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_pmksa_candidate_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_get_mesh_hdrlen	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_pspoll_get	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_rts_get	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwlwifi_mod_params	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	wiphy_new_nm	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_acpi_get_ppag_table	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	regulatory_pre_cac_allowed	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_request_smps	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_phy_db_free	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	freq_reg_info	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_get_shared_mem_conf	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	__traceiter_iwlwifi_dev_ucode_wrap_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	ieee80211_radiotap_iterator_next	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_iterate_interfaces	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	ieee80211_chandef_to_operating_class	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_acpi_get_object	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_gtk_rekey_add	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_sar_get_ewrd_table	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_acpi_get_dsm_u8	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_iterate_stations	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	cfg80211_ch_switch_started_notify	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_sta_eosp	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_tx_status	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_set_soc_latency	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_stop_iface	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_tx_status_ext	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_send_bar	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_probereq_get	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_finish_nic_init	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_rate_control_unregister	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_iter_keys	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	iwl_tm_gnl_send_rx	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_calc_tx_airtime	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_acpi_get_dsm_u32	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_get_drvinfo	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_update_p2p_noa	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_ap_probereq_get	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_resume_disconnect	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_dnt_start	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_pmsr_report	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL_GPL	
+0x00000000	backport_tasklet_unlock_spin_wait	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/compat	EXPORT_SYMBOL_GPL	
+0x00000000	__tracepoint_iwlwifi_dev_ucode_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	cfg80211_get_ies_channel_number	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	regulatory_set_wiphy_regd	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_ctstoself_get	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_get_key_rx_seq	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	wiphy_rfkill_start_polling	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	regulatory_hint	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_wait_notification	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	wiphy_apply_custom_regulatory	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_read_external_nvm	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_rx_control_port	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	ieee80211_set_key_rx_seq	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL_GPL	
+0x00000000	iwl_new_rate_from_v1	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	iwl_dbg_tlv_del_timers	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_del_sta_sinfo	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_phy_db_init	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_get_channel_khz	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_rx_assoc_resp	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_free_fw_paging	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_rx_unexpected_4addr_frame	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_read_eeprom	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	cfg80211_michael_mic_failure	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_reg_can_beacon	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	iwl_dnt_init	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL_GPL	IWLWIFI
+0x00000000	ieee80211_get_unsol_bcast_probe_resp_tmpl	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211	EXPORT_SYMBOL	
+0x00000000	cfg80211_bss_flush	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211	EXPORT_SYMBOL	
+0x00000000	__SCK__tp_func_iwlwifi_dev_ucode_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	
+0x00000000	__SCT__tp_func_iwlwifi_dev_ucode_event	/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi	EXPORT_SYMBOL	

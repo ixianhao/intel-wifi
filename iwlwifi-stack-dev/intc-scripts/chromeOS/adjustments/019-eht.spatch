@@ -1,0 +1,114 @@
+@r@
+expression E;
+position p;
+identifier OTHER =~ "NL80211_CHAN_WIDTH_(?!320)";
+@@
+
+switch (E) {
+case OTHER:
+case NL80211_CHAN_WIDTH_320@p:
+}
+
+@@
+expression E;
+position r.p;
+@@
+switch (E) {
++#if CFG80211_VERSION >= KERNEL_VERSION(5,18,0)
+case NL80211_CHAN_WIDTH_320@p:
++#endif
+  break;
+}
+
+@@
+expression E, value;
+position r.p;
+@@
+ switch (E) {
++#if CFG80211_VERSION >= KERNEL_VERSION(5,18,0)
+ case NL80211_CHAN_WIDTH_320@p:
+(
+  ...
+  break;
++#endif
+|
+  ...
+  fallthrough;
++#endif
+|
+  ...
+  return;
++#endif
+|
+  ...
+  return value;
++#endif
+)
+ }
+
+@@
+identifier iwl_he_eht_capa;
+@@
+struct ieee80211_sband_iftype_data iwl_he_eht_capa[] = {
+...,
+	{
++#if CFG80211_VERSION >= KERNEL_VERSION(5,18,0)
+		.eht_cap = {
+			...
+		},
++#endif
+	},
+...
+};
+
+@@
+expression obj, val;
+@@
+-obj->eht_cap.has_eht = val;
++cfg_eht_cap_set_has_eht(obj, val);
+
+@@
+expression obj;
+@@
+-obj->eht_cap.has_eht
++cfg_eht_cap_has_eht(obj)
+
+@@
+expression obj;
+identifier f;
+@@
+-obj->eht_cap.f
++cfg_eht_cap(obj)->f
+
+@@
+identifier mvm, rx_status, eht;
+@@
++#if CFG80211_VERSION >= KERNEL_VERSION(5,18,0)
+static void iwl_mvm_decode_eht_ru(struct iwl_mvm *mvm,
+				  struct ieee80211_rx_status *rx_status,
+				  struct ieee80211_radiotap_eht *eht)
+{
+...
+}
++#else
++static inline void iwl_mvm_decode_eht_ru(struct iwl_mvm *mvm,
++				  struct ieee80211_rx_status *rx_status,
++				  struct ieee80211_radiotap_eht *eht)
++{
++	return;
++}
++#endif
+
+@@
+identifier chandef;
+type u8;
+@@
+static u8
+iwl_mvm_chandef_get_primary_80(struct cfg80211_chan_def *chandef)
+{
++#if CFG80211_VERSION >= KERNEL_VERSION(5,18,0)
+...
++#else
++return 0;
++#endif
+}

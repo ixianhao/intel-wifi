@@ -1,0 +1,1 @@
+cmd_/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/modules.order := {   echo /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/compat.ko; :; } | awk '!x[$$0]++' - > /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/modules.order

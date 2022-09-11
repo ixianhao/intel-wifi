@@ -1,0 +1,1 @@
+cmd_/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/modules.order := {   echo /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211.ko; :; } | awk '!x[$$0]++' - > /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/modules.order

@@ -1,0 +1,6 @@
+/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/compat.ko
+/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/iwlwifi.ko
+/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/mvm/iwlmvm.ko
+/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/xvt/iwlxvt.ko
+/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/wireless/cfg80211.ko
+/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/net/mac80211/mac80211.ko

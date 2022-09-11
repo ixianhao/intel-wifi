@@ -1,0 +1,1 @@
+cmd_/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/Module.symvers := sed 's/ko$$/o/' /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/modules.order | scripts/mod/modpost  -a   -o /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/Module.symvers -e -i Module.symvers   -n -T -

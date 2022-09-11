@@ -1,0 +1,1 @@
+cmd_/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/compat.o := ld -m elf_x86_64    -r -o /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/compat.o /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/main.o /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/backport-5.13.o /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/compat/backport-5.15.o

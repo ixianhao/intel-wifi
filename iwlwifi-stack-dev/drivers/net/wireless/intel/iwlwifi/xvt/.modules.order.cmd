@@ -1,0 +1,1 @@
+cmd_/home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/xvt/modules.order := {   echo /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/xvt/iwlxvt.ko; :; } | awk '!x[$$0]++' - > /home/itmanager/backport-iwlwifi/iwlwifi-stack-dev/drivers/net/wireless/intel/iwlwifi/xvt/modules.order
