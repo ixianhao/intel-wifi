@@ -1,17 +1,17 @@
-#First, install some necessary package
+#第一步，让我们安装一些依赖
 
 sudo apt install flex bison make vim gcc git -y
 
-#clone the backport repo, compile and install it:
+#第二步，下载驱动文件并编译
 
 git clone https://gitee.com/ixianhao/intel-wifi.git
-sudo cp intel-wifi/fw-binsries/*.ucode /lib/firmware
+sudo cp intel-wifi/fw-binaries/*.ucode /lib/firmware
 cd intel-wifi/iwlwifi-stack-dev
 sudo make defconfig-iwlwifi-public
 sudo make
 sudo make install
 
-#Third, download the driver, or you can download your driver from Intel website.
+#第三步，下载官网驱动文件
 
 git clone git://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
 cd linux-firmware/
@@ -21,4 +21,4 @@ sudo cp iwlwifi-* /lib/firmware/
 
 https://www.intel.com/content/www/us/en/support/articles/000005511/wireless.html
 
-#Reboot the machine and it works for me
+#第四步，重启你的电脑！
