@@ -34,7 +34,7 @@ cd linux-firmware/
 ```
 sudo cp iwlwifi-* /lib/firmware/
 ```
-#或者在官网下载固件Linux Support for Intel® Wireless Adapters ，将解压后的ucode文件复制在/lib/firmware目录。
+#或者在官网下载固件Linux Support for Intel® Wireless Adapters ，将解压后的`ucode文件`复制在`/lib/firmware`目录。
 
 https://www.intel.com/content/www/us/en/support/articles/000005511/wireless.html
 
