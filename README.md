@@ -4,7 +4,7 @@ sudo apt install flex bison make vim gcc git -y
 
 #第二步，下载驱动文件并编译
 
-git clone https://gitee.com/ixianhao/intel-wifi.git
+git clone https://github.com/ixianhao/intel-wifi.git
 
 sudo cp intel-wifi/fw-binaries/*.ucode /lib/firmware
 
